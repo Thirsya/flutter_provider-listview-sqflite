@@ -30,6 +30,7 @@ Contoh Gambar : <br>
 - Menggunakan onDismissed startToEnd untuk dapat mengaktifkan swipe right
 - Kemudian dipanggil route untuk dapat berpindah page<br>
 Contoh Gambar : <br>
+![13](https://user-images.githubusercontent.com/85380380/199454989-818b80f8-0685-4eec-b4f9-758299e53169.png)
 
 
 5. Tambahkan fitur edit task.
@@ -37,7 +38,8 @@ Contoh Gambar : <br>
 - Merubah fungsi yang dapat memanggil data pada sqlite pada tasklist dan database_service
 - Menambahkan route pada main untuk dapat berpindah page<br>
 Contoh Gambar : <br>
-![13](https://user-images.githubusercontent.com/85380380/199454989-818b80f8-0685-4eec-b4f9-758299e53169.png)
+![9](https://user-images.githubusercontent.com/85380380/199455832-c5bc1c30-a13e-415e-80ac-24bbb9f9da27.PNG)
+
 
 
 6. Tambahkan fitur validasi input di edit task.
